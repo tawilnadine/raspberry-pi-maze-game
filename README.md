@@ -4,7 +4,7 @@ An interactive maze game built with Python and Raspberry Pi.
 The player uses a joystick to navigate an 8 × 8 maze.
 An LCD, RGB LED, and buzzer provide feedback during the game.
 
-# Features
+## Features
 
 - Joystick control for moving up, down, left, and right.
 - LCD messages showing game feedback and step count.
@@ -13,7 +13,7 @@ An LCD, RGB LED, and buzzer provide feedback during the game.
 - Up to three hints showing available movement directions.
 - MQTT messages reporting the current position and movement.
 
-# Hardware
+## Hardware
 
 - Raspberry Pi
 - Joystick connected through an analog-to-digital converter
@@ -22,13 +22,13 @@ An LCD, RGB LED, and buzzer provide feedback during the game.
 - Push button
 - Buzzer
 
-# Project files
+## Project files
 
 - `maze.py`: Python code for the game.
 - `Maze.xlsx`: Spreadsheet accompanying the project.
 - `Project Maze_game report.pdf`: Project report.
 
-# Running the game
+## Running the game
 
 This project requires a Raspberry Pi with the connected hardware.
 The code uses GPIO and I²C communication and expects an MQTT
@@ -36,7 +36,7 @@ broker running on localhost at port 1883.
 
 Detailed wiring and installation instructions will be added.
 
-# My contribution
-The project idea
-Programming and connecting the devices
-Writing the report
+## My contribution
+- The project idea
+- Programming and connecting the devices
+- Writing the report
