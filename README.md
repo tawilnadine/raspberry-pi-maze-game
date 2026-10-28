@@ -23,8 +23,8 @@ An LCD, RGB LED, and buzzer provide feedback during the game.
 - Buzzer
 
 ## Hardware overview
-
-![Maze game hardware overview](Raspberry Pi Maze Game Overview.png)
+![Maze game hardware overview](<Raspberry Pi Maze Game Overview.png>)
+[Maze game hardware overview](<Raspberry Pi Maze Game Overview.png>)
 
 Conceptual illustration of the system connections.
 
