@@ -22,6 +22,12 @@ An LCD, RGB LED, and buzzer provide feedback during the game.
 - Push button
 - Buzzer
 
+## Hardware overview
+
+![Maze game hardware overview](maze-overview.png)
+
+Conceptual illustration of the system connections.
+
 ## Project files
 
 - `maze.py`: Python code for the game.
